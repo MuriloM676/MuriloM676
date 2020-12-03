@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, eu sou o Murilo, tenho 19 anos e estudo <strong>Programação</strong>.<br>
-  Desenvolvo em Java, Python e C++(Voltado para microcontroladores). Além da programação estudo Segurança da <strong>Informação</strong>
+  Desenvolvo em Java, Python e C++. Além da programação estudo Segurança da <strong>Informação</strong>
 </p>
 
 <p align="left">
