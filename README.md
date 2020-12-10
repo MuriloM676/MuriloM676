@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Github, Nessus, OpenVas.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Git, Nessus, OpenVas.</strong>
 </p>
 
 <p align="left">
