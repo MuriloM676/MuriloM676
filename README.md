@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o Murilo, tenho 19 anos e estudo <strong>Programação</strong> e também <strong>Segurança Da Informação</strong>.<br>
+  Olá, eu sou o Murilo, estudante de <strong>Segurança da informação</strong> e também <strong>Programação</strong> nas horas vagas.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Java, C++, ShellScript.</strong>
+  🦄 Linguagens: <strong>Python, Java, C++, ShellScript e SQL.</strong>
 </p>
 
 <p align="left">
