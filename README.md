@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Java, C++, ShellScript e SQL.</strong>
+  🦄 Linguagens: <strong>Python, Java, C++, PHP e SQL.</strong>
 </p>
 
 <p align="left">
