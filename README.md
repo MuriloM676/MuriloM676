@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o Murilo, estudante de <strong>Segurança da informação</strong> e também <strong>Programação</strong> nas horas vagas.<br>
+  Olá, eu sou o Murilo, estudante de <strong>Segurança da informação</strong> e nas horas vagas desenvolvo projetos voltados para programação.<br>
 </p>
 
 <p align="left">
