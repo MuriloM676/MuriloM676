@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, eu sou o Murilo, estudante de <strong>Segurança da informação</strong> e nas horas vagas desenvolvo projetos voltados para programação.<br>
+  Olá, eu sou o Murilo, estudante de <strong>Engenharia da computação</strong><br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, Java, C++, PHP e SQL.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Git, Nessus, OpenVas.</strong>
+  🦄 Linguagens: <strong>Python, Java, C++, Assembly e PHP.</strong>
 </p>
 
 <p align="left">
