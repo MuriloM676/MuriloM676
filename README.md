@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Minhas redes sociais: ⤵️
 </p>
 
   <a href="https://www.linkedin.com/in/murilo-martins-1b96871b4/" alt="Linkedin">
