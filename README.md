@@ -1,4 +1,4 @@
-<h1 align="center">Oii, eu sou o Murilo<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
+<h1 align="center">Oi, eu sou o Murilo<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> </h1>
 <h3 align="center">Engenheiro da Computação | Back-End Developer</h3>
 
 <p align="center">
