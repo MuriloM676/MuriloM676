@@ -13,7 +13,7 @@
   <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
 
   <em>
-Sou uma desenvolvedora Back-End e estudante do 2° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec Mogi das Cruzes</strong>. Minha jornada na tecnologia começou com o ensino médio técnico em Informática para a Internet, o que me deu uma base sólida que hoje aplico com foco em desenvolvimento de software.</p>
+Sou estudante de Engenharia de Computação no último semestre e atualmente atuo no desenvolvimento back-end de sistemas voltados para a administração pública. Tenho experiência na construção de APIs, integração com serviços governamentais, automação de processos e desenvolvimento de soluções que apoiam a gestão e a transparência dos órgãos públicos. Sou apaixonado por tecnologia, arquitetura de software e criação de sistemas escaláveis que geram impacto real para usuários e instituições.</p>
   </em> 
   <br>
 <div align= "center">
